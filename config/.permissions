@@ -1,0 +1,3 @@
+config/git-hooks/post-checkout;775
+config/git-hooks/pre-commit;775
+config/import-git-hooks.sh;664
